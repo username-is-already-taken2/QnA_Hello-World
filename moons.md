@@ -11,3 +11,7 @@ Saturn has 62 moons.
 Uranus has 27 moons.
 ## How many moons does Nepturn have?
 Neptune as 14 moons.
+## How many moons does Ceres have?
+Ceres doesn't have any moons.
+## How many moons does Pluto have?
+Pluto has 5 moons.
